@@ -3,7 +3,7 @@
 C# kullanılarak yapılan windows form uygulamasıdır. Veriler access veritabanında tutulmaktadır.
 
 Ekrana gelen sayfa giriş yapma sayfasıdır. Uygulama girilen verilere göre otomatik olarak öğrenci ya da öğretmen olduğunu algılar. 
-<img width="1242" height="732" alt="başlangıç" src="https://github.com/user-attachments/assets/322c16c0-80de-4b01-a00e-8608cb6328cb" />
+<img width="800" height="600" alt="başlangıç" src="https://github.com/user-attachments/assets/322c16c0-80de-4b01-a00e-8608cb6328cb" />
 
 Öğrenci numara ve şifresiyle giriş yaptıktan sonra kişisel bilgilerini ve notlarını görüntüleyebilir.
 <img width="930" height="586" alt="kişisel bilgiler" src="https://github.com/user-attachments/assets/c0d83a0d-9f5b-4249-a6a3-b718052454e1" />
